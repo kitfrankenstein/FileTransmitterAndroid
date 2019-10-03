@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">File Transmitter</string>
+    <string name="title_activity_chat">ChatActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">FileTransmitter</string>
+    <string name="nav_header_subtitle">https://github.com/kitfrankenstein</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">打开文件位置</string>
+</resources>
